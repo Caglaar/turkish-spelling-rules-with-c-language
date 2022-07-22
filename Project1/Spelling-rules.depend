@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649197922 source:c:\users\t0lg4\desktop\Ödev kodlarý\konyar-proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
